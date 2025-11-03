@@ -1,0 +1,12 @@
+{
+  "machine_id_hash_1": {
+    "username": "admin",
+    "password": "5d41402abc4b2a76b9719d911017c592",
+    "expiry": "2024-12-31T23:59:59"
+  },
+  "machine_id_hash_2": {
+    "username": "user1", 
+    "password": "7d793037a0760186574b0282f2f435e7",
+    "expiry": "2024-06-30T23:59:59"
+  }
+}
